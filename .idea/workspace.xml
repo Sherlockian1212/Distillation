@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d039cf4-dc61-4515-b209-edc2c177a746" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/distillation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Distillation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Distillation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3d039cf4-dc61-4515-b209-edc2c177a746" name="Changes" comment="add teacher &amp; student model">
+      <change beforePath="$PROJECT_DIR$/distillation.py" beforeDir="false" afterPath="$PROJECT_DIR$/distillation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756137350166</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add teacher &amp; student model">
+      <option name="closed" value="true" />
+      <created>1756138067608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756138067608</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add teacher &amp; student model">
+      <option name="closed" value="true" />
+      <created>1756138075981</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756138075981</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="add teacher &amp; student model" />
+    <option name="LAST_COMMIT_MESSAGE" value="add teacher &amp; student model" />
   </component>
 </project>
